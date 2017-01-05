@@ -3,7 +3,20 @@
   "description": "JWT authentication module for your Reazy application.",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeekyAnts/reazy-auth-jwt.git"
+  },
+  "keywords": [
+    "reazy",
+    "reazy-auth-jwt",
+    "react",
+    "react",
+    "native",
+    "framework"
+  ],
+  "author": "Kumar Sanket, Himanshu Satija, Sankhadeep Roy",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">= 4"
   },
